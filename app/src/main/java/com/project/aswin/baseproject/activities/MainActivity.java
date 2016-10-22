@@ -1,11 +1,11 @@
 package com.project.aswin.baseproject.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.project.aswin.baseproject.R;
+import com.project.aswin.baseproject.base.BaseActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
